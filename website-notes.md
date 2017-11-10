@@ -48,14 +48,11 @@
 # ATXSA:
 
 - **About**
+  - Our Chapter
   - Mission & Impact
   - Board of Directors
   - CISV USA
   - CISV International
-- **Support Us!**
-  - Donate
-  - Sponsorship
-  - Become a Member!
 - **Programs**
   - Village
     - Benefits for your child
@@ -80,4 +77,8 @@
   - Become a Member!
   - Village Hosting 2018
 - **Junior Branch**
+- **Support Us!**
+  - Donate
+  - Sponsorship
+  - Become a Member!
 - **Contact Us**
